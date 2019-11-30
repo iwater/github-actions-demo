@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github-actions-demo/static/css/main.b100e6da.chunk.css",
+    "main.js": "/github-actions-demo/static/js/main.210d7d95.chunk.js",
+    "main.js.map": "/github-actions-demo/static/js/main.210d7d95.chunk.js.map",
+    "runtime-main.js": "/github-actions-demo/static/js/runtime-main.bab7c5fc.js",
+    "runtime-main.js.map": "/github-actions-demo/static/js/runtime-main.bab7c5fc.js.map",
+    "static/js/2.dbe21ac2.chunk.js": "/github-actions-demo/static/js/2.dbe21ac2.chunk.js",
+    "static/js/2.dbe21ac2.chunk.js.map": "/github-actions-demo/static/js/2.dbe21ac2.chunk.js.map",
+    "index.html": "/github-actions-demo/index.html",
+    "precache-manifest.e752633595956a2d8bf28f841b4acc23.js": "/github-actions-demo/precache-manifest.e752633595956a2d8bf28f841b4acc23.js",
+    "service-worker.js": "/github-actions-demo/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/github-actions-demo/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/github-actions-demo/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bab7c5fc.js",
+    "static/js/2.dbe21ac2.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.210d7d95.chunk.js"
+  ]
+}
